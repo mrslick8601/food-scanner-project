@@ -1,0 +1,8 @@
+{
+  "name": "NutriScan - AI Food Identifier",
+  "description": "A web application that uses AI to identify food items from an image, providing details on nutrients, calories, health benefits, and potential hazards.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
